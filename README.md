@@ -280,6 +280,25 @@ geom_col(fill = "blue") + labs(title = "Daily Step Count")
 
 The bar graph above shows us that participants are most active on saturdays and least active on sundays.
 
+### STEP 6: Act
+
+### Insights Summary: 
+
+To give a quick recap on the company's background: Bellabeat is a high-tech manufacturer of health-focused products for women. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women. 
+
+After analyzing the FitBit Fitness Tracker data, I came up with some **recommendations for Bellabeat marketing strategy based on trends in smart device usage.**
+
+
+1. As stated previously, the average number of steps per day is 7,638. This is lower than what the CDC recommends. According to CDC's official website: 8,000 steps per day was associated with a 51% lower risk for all-cause mortality (or death from all causes). Taking 12,000 steps per day was associated with a 65% lower risk compared with taking 4,000 steps. one thing Bellabeat can do is **suggest that users take at least 8,000 steps per day and explain the benefits that come with it.**
+
+2. The majority of participants are lightly active. Bellabeat should offer a progression system in the app to encourage participants to become at least fairly active. 
+
+3. Bellabeat can suggest some ideas for low calorie breakfast, lunch, and dinner foods to help users that want to lose weight. 
+
+4. If users want to improve the quality of their sleep, Bellabeat should consider using app notifications reminding users to get enough rest, as well as recommending reducing sedentary time. 
+
+5. Participants are most active on Saturdays. Bellabeat can use this knowledge to remind users to go for a walk or a jog on that day. Participants seem to be the least active on Sundays. Bellabeat can use this to motivate users to go out and continue exercising on Sundays.
+
 
 
 
